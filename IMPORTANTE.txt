@@ -1,0 +1,5 @@
+Link Drive : https://drive.google.com/drive/folders/1OCf33SRPkUToh9ZaVWKPm1PFsqFMvtFy
+Link Trello (Tasks): https://trello.com/b/1nL6XOUC/desafiobcp
+
+Hay archivos que github los reconoce como vacío y no llegan a subirse.
+Como respaldo hemos optado por subir todo a un drive. 
